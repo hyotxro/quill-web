@@ -1,0 +1,101 @@
+{
+  "site": {
+    "title": "QUILL",
+    "subtitle": "Sobreviviendo a la cabeza",
+    "author": "Hyotxro / Hyo",
+    "intro": "Un cuervo intentando sobrevivir a su propia cabeza. Humor seco, pensamientos incómodos y pequeñas catástrofes.",
+    "about": "Quill es un cuervo de silueta sencilla, ojos enormes y una mente que no se calla. No habla: sus frases son pensamientos o voz en off.",
+    "accent": "#8edfe8"
+  },
+  "chapters": [
+    {
+      "id": "c1",
+      "title": "Ayuno Voluntario",
+      "subtitle": "Capítulo 1",
+      "description": "Primer capítulo del webcómic principal.",
+      "status": "publicado",
+      "cover": "assets/principal-2.webp",
+      "pages": [
+        "assets/principal-1.webp",
+        "assets/principal-2.webp"
+      ]
+    },
+    {
+      "id": "c2",
+      "title": "Falso Cinismo",
+      "subtitle": "Capítulo 2",
+      "description": "El sarcasmo como escudo ante la soledad.",
+      "status": "publicado",
+      "cover": "assets/principal-3.webp",
+      "pages": [
+        "assets/principal-3.webp"
+      ]
+    }
+  ],
+  "days": [
+    {
+      "day": 1,
+      "word": "Dragón",
+      "title": "Dragón",
+      "description": "",
+      "image": "assets/merachotober-cap-1.webp",
+      "status": "publicado"
+    },
+    {
+      "day": 2,
+      "word": "Guitarra",
+      "title": "Guitarra",
+      "description": "",
+      "image": "assets/merachotober-cap-2.webp",
+      "status": "publicado"
+    },
+    {
+      "day": 3,
+      "word": "Talingo",
+      "title": "Talingo",
+      "description": "",
+      "image": "assets/merachotober-cap-3.webp",
+      "status": "publicado"
+    },
+    {
+      "day": 4,
+      "word": "Orquídea",
+      "title": "Orquídea",
+      "description": "",
+      "image": "assets/merachotober-cap-4.webp",
+      "status": "publicado"
+    },
+    {
+      "day": 5,
+      "word": "Raspao",
+      "title": "Raspao",
+      "description": "",
+      "image": "assets/merachotober-cap-5.webp",
+      "status": "publicado"
+    },
+    {
+      "day": 6,
+      "word": "Dado",
+      "title": "Dado",
+      "description": "",
+      "image": "assets/merachotober-cap-5-2.webp",
+      "status": "publicado"
+    },
+    {
+      "day": 7,
+      "word": "Ciempiés",
+      "title": "Ciempiés",
+      "description": "",
+      "image": "assets/merachotober-cap-5-3.webp",
+      "status": "publicado"
+    },
+    {
+      "day": 8,
+      "word": "Torre",
+      "title": "Torre",
+      "description": "",
+      "image": "assets/merachotober-cap-5-4.webp",
+      "status": "publicado"
+    }
+  ]
+}

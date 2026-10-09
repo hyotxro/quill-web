@@ -1,0 +1,28 @@
+QUILL STUDIO — INSTRUCCIONES SENCILLAS
+=====================================
+
+1. Descomprime QUILL-Studio-GitHub.zip.
+2. Abre github.com y crea un repositorio PUBLICO llamado quill-web (o usa el que ya tienes).
+3. En el repositorio, Add file > Upload files.
+4. Abre la carpeta site y ARRASTRA SU CONTENIDO: index.html, data.json, studio/ y assets/.
+   No subas la carpeta «site» como carpeta contenedora.
+5. Pulsa Commit changes.
+6. Settings > Pages > Deploy from a branch > main > /(root) > Save.
+7. Espera unos minutos. Web: https://TUUSUARIO.github.io/quill-web/
+8. Editor: https://TUUSUARIO.github.io/quill-web/studio/
+
+PARA EDITAR
+- Entra en /studio/, cambia textos, sube dibujos, crea capítulos y ordena páginas.
+- Pulsa «Guardar borrador» para guardar en ESE navegador (IndexedDB).
+- Pulsa «Exportar web ZIP» para descargar el sitio actualizado.
+- Descomprime ese ZIP y sube su contenido al mismo repositorio GitHub, reemplazando los archivos que hayan cambiado.
+- IMPORTANTE: GitHub Pages NO guarda los cambios automáticamente. El botón exporta un ZIP; debes subirlo a GitHub.
+- Si GitHub muestra conflictos de archivos, reemplaza los archivos existentes manualmente desde la interfaz web.
+- El editor NO está protegido por contraseña. Su acceso no concede permiso para editar tu repositorio. No guardes secretos.
+- Los borradores locales pueden perderse si borras los datos del navegador. Exporta regularmente.
+
+CONTENIDO IMPORTADO
+- quill proyecto.zip: tres imágenes (portada, presentación y una lámina de capítulo).
+- MERACHOTOBER QUILL.zip: ACTO 1, ilustraciones de los días 1 a 8 y un boceto tipográfico de Torre.
+- El catálogo principal tiene entradas de ejemplo organizadas a partir de las láminas; puedes corregir sus páginas en el editor.
+- El editor y la web son archivos estáticos, sin claves, servicios externos ni instalaciones.
